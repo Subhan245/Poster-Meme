@@ -1,0 +1,21 @@
+#mainbg{ background-color: black;
+         }
+
+#mainh1{color: white;
+        font-family: 'Libre Baskerville', serif;
+        text-transform: capitalize;
+        text-align: center;}
+
+#mainp{color: white;
+       text-align: center;
+       font-family: 'Onest', sans-serif;}
+
+#maindiv{width: 60%; 
+        margin-top: 5%;
+        margin-left: 20%; 
+        }
+         
+#mainimg{border: solid white;
+        border-width: 5px 5px;
+        width: 100%;
+        }
